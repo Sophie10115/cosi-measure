@@ -1,0 +1,12 @@
+This folder contains templates, guidance and examples to implement a Failure Modes and Effects Analysis in Open Source Hardware. 
+ 
+The Failure Modes and Effects Analysis (FMEA) is a qualitative reliability and risk analysis method for preventive quality assurance.
+In a systematic team-based approach FMEA identifies and assesses all possible kind of failure modes, 
+their causes and effects that can occur.
+The result is a prioritized table of possible risks with defined corrective actions. 
+
+FMEA_introduction.ppt - Short introduction to FMEA for OSH, can be used for training purposes
+FMEA_template.xlsm - Template including instructions and an example for a butane lighter
+FMEA_CosiMeasure - FMEA for CosiMeasure
+CosiMeasure_structure_tree.xmind - structure tree for CosiMeasure with subassemblies and components, xmind-file
+CosiMeasure_structure_tree.xmind - structure tree for CosiMeasure with subassemblies and components, pdf-file
